@@ -4,6 +4,12 @@ Comme évoqué dans la présentation, TypeScript est un sur-ensemble de JavaScri
 
 Nous revenons sur chaque syntaxe en détail dans les fiches correspondantes.
 
+> ✅ **Avantages du typage**
+> - Meilleure documentation implicite
+> - Auto-complétion améliorée
+> - Détection d'erreurs à la compilation
+> - Plus de maintenabilité
+
 ## Typage de base
 
 ```ts
